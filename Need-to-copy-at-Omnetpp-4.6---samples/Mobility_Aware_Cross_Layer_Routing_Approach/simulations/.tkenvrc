@@ -1,0 +1,5 @@
+# Partial OMNeT++/Tkenv config file -- see $HOME/.tkenvrc as well
+config default-configname	{Mobility_Aware_Cross_Layer_Routing_Approach_EAR_P2P}
+config default-runnumber	{0}
+inspector simulation.scheduled-events.Ieee80211Prim_ScanConfirm cMessage 197675 1 464x315+32+180:normal
+

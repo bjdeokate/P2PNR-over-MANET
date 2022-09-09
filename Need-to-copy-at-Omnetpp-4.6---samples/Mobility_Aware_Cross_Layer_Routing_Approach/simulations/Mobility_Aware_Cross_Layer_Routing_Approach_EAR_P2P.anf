@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/Mobility_Aware_Cross_Layer_Routing_Approach/simulations/results/Mobility_Aware_Cross_Layer_Routing_Approach_EAR_P2P-*.vec"/>
+    <inputs name="/Mobility_Aware_Cross_Layer_Routing_Approach/simulations/results/Mobility_Aware_Cross_Layer_Routing_Approach_EAR_P2P-*.sca"/>
+  </inputs>
+  <datasets/>
+  <chartSheets/>
+</scave:Analysis>
