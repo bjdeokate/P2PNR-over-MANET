@@ -1,0 +1,41 @@
+FIRST INSTALL JDK
+--------------------------------
+
+1) JDK-1.8 Download   link:
+
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+2) Double click jdk-8u161-windows-i586.exe to install
+==============================================================================================
+
+NEXT INSTALL OMNET
+------------------------------------
+
+omnet++ 4.6 Download link
+
+https://omnetpp.org/component/jdownloads/download/32-release-older-versions/2291-omnet-4-6-win32-source-ide-mingw-zip
+
+Installation Steps:
+----------------------------
+
+Step 1 - Download omnetpp-4.6.zip using following link.
+https://omnetpp.org/component/jdownloads/download/32-release-older-versions/2291-omnet-4-6-win32-source-ide-mingw-zip
+
+Step 2 - Extract omnetpp-4.6.zip
+
+Step 3 - copy omnetpp-4.6 directory to C:\
+
+Step 4 - Open omnetpp-4.6 directory (C:\omnetpp-4.6)
+
+Step 5 - Double click on mingwenv file. Bash prompt will get open.
+
+Step 6 - Enter the command $ . setenv 
+
+Step 7 - Enter the command $ ./configure  
+
+Step 8 - Enter the command $ make  
+
+Step 9 - Enter the command omnetpp. Omnet++ window will get open.
+
+======================================================================================================================================================
+ 
